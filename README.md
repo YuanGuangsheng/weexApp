@@ -1,6 +1,6 @@
-# videoContent
+# WeekApp
 
-> videoContent
+> 利用Weex实现的App
 
 ## getting start
 
